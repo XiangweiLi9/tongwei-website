@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /history/
 
-Sitemap: https://xiangweili9.github.io/tongwei-website/sitemap.xml
+Sitemap: https://www.tongweijx.com/sitemap.xml
